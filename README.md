@@ -1,6 +1,6 @@
-# myapp
+# App jogo da velha
 
-A new Flutter project.
+App desenvolvido vinculado com o modulo 4 da disciplina Desenvolvimento WEB.
 
 ## Getting Started
 
